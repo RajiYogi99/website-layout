@@ -1,0 +1,88 @@
+.box2
+{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    width: 100%;
+    height: 75vh;
+
+}
+.con
+{
+    background-color: rgb(14, 187, 187);
+    width: 700px;
+    height: 600px;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 50%;
+}
+.contact {
+    margin: 30px;
+    padding: 20px;
+}
+.contact h2
+{
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+}
+.contact input{
+  display: block;
+  border: none;
+  width: 500px;
+  height: 50px;
+}
+ ::placeholder
+{
+    
+    color: rgba(77, 75, 75, 0.699);
+    padding: 10px;
+    font-size: 18px;
+}
+input[type=submit]
+{
+    
+  border: 1px solid white;
+  color: rgb(14, 187, 187);
+  cursor: pointer;
+  width: 130px;
+  font-size: 20px;
+  font-weight: 900;
+  text-align: center;
+}
+.grid1
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    width: 400px;
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 17%;
+}
+.bo1
+{
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    padding: 15px;
+}
+.bo1 i
+{
+  font-size: 50px;
+  padding: 10px;
+  margin-left: 30%;
+  color: rgb(14, 187, 187);
+}
+.bo1 h2
+{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    text-align: center;
+}
+.bo1 p
+{
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+}
